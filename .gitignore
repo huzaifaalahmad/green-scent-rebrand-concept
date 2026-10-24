@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env*
+*.log
+evidence/
+prepare_assets.py
+review.html
+source-reference/
+.DS_Store
